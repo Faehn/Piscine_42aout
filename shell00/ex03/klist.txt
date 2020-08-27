@@ -1,0 +1,5 @@
+Credentials cache: API:01F719A0-4BE9-4DC8-B3F9-46F2B432DE6A
+        Principal: bsamzun@42.FR
+
+  Issued                Expires               Principal
+Aug  3 11:06:59 2020  Aug 10 11:06:43 2020  krbtgt/42.FR@42.FR
